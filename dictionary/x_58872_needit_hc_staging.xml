@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="hc_staging" max_length="40" name="x_58872_needit_hc_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PK&#3;&#4;&#20;&#0;&#0;&#8;&#0;&#0;mOYO…l9Š.&#0;&#0;&#0;.&#0;&#0;&#0;&#8;&#0;&#0;&#0;mimetypeapplication/vnd.oasis.opendocument.spreadsheetPK&#3;&#4;&#20;&#0;&#0;&#8;&#0;&#0;mOYOWQ&#28;O£(&#0;&#0;£(&#0;&#0;&#24;&#0;&#0;&#0;Thumbnails/thumbnail.png‰PNG" label="PK&#3;&#4;&#20;&#0;&#0;&#8;&#0;&#0;mOYO…l9Š.&#0;&#0;&#0;.&#0;&#0;&#0;&#8;&#0;&#0;&#0;mimetypeapplication/vnd.oasis.opendocument.spreads" max_length="40" name="u_pk________mo_mbnail_png_png" type="string"/>
+    </element>
+</database>

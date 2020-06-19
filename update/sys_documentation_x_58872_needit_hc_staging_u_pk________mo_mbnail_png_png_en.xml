@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_pk________mo_mbnail_png_png" label="PK&#3;&#4;&#20;&#0;&#0;&#8;&#0;&#0;mOYO…l9Š.&#0;&#0;&#0;.&#0;&#0;&#0;&#8;&#0;&#0;&#0;mimetypeapplication/vnd.oasis.opendocument.spreads" language="en" table="x_58872_needit_hc_staging">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_pk________mo_mbnail_png_png</element>
+            <help/>
+            <hint/>
+            <label>PKmOYO…l9Š..mimetypeapplication/vnd.oasis.opendocument.spreads</label>
+            <language>en</language>
+            <name>x_58872_needit_hc_staging</name>
+            <plural>PKmOYO…l9Š..mimetypeapplication/vnd.oasis.opendocument.spreads</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-19 16:52:11</sys_created_on>
+            <sys_id>30c7e6fcdb21101022177b603996195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PKmOYO…l9Š..mimetypeapplication/vnd.oasis.opendocument.spreadsheetPKmOYOWQO£(£(Thumbnails/thumbnail.png‰PNG</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_hc_staging_u_pk________mo_mbnail_png_png_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-19 16:52:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
